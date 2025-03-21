@@ -2,9 +2,10 @@
 name = "samir_practice"
 version = "0.1.0"
 edition = "2024"
-
+authors = ["Samir Wagley"]
 
 [dependencies]
+account = "0.1.1-beta1"
 
 [profile.dev]
 opt-level = 0
