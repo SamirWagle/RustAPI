@@ -4,7 +4,7 @@ version = "0.1.0"
 edition = "2024"
 authors = ["Samir Wagley"]
 description = " This is my first api  library that is made for rust. It is a starting for rust"
-lisense = "MIT"
+license = "MIT"
 [dependencies]
 account = "0.1.1-beta1"
 
